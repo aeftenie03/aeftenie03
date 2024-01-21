@@ -1,3 +1,5 @@
+##👋 **Greetings:**
+Hello! My name is Alexandru and I am a very passionate computer science student & Full Time QA Tester/Engineer for Electronic Arts(EA) Romania.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel.eftenie03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandru-daniel-eftenie-3b7998247/) 
