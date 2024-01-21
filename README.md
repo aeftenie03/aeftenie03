@@ -1,4 +1,4 @@
-##👋 **Greetings:**
+## 👋 **Greetings:**
 Hello! My name is Alexandru and I am a very passionate computer science student & Full Time QA Tester/Engineer for Electronic Arts(EA) Romania.
 
 ## 🌐 Socials:
